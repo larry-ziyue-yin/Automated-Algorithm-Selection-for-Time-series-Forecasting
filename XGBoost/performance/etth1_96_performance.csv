@@ -1,0 +1,2 @@
+GPHT'_MSE, GPHT'_MAE, GPHT_MSE, GPHT_MAE, Self-supervised_PatchTST_MSE, Self-supervised_PatchTST_MAE, FPT_MSE, FPT_MAE, SimMTM_MSE, SimMTM_MAE, TimeMAE_MSE, TimeMAE_MAE, Supervised_PatchTST_MSE, Supervised_PatchTST_MAE, iTransformer_MSE, iTransformer_MAE, TimesNet_MSE, TimesNet_MAE, DLinear_MSE, DLinear_MAE
+0.378, 0.388, 0.363, 0.382, 0.384, 0.401, 0.388, 0.405, 0.383, 0.411, 0.431, 0.450, 0.382, 0.403, 0.405, 0.419, 0.421, 0.438, 0.375, 0.396
