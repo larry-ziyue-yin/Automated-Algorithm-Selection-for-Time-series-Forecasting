@@ -1,6 +1,6 @@
 # Automated Algorithm Selection for Time-series Forecasting
 ## Dataset Sources
-An integrated collection note of potential/used datasets is in [this Notion site](https://larry-better-me.notion.site/Datasets-211bf6cc1d6440ddbbd74af5e8f84a37).
+An integrated collection note of potential/used datasets is in [datasets](https://github.com/larry-ziyue-yin/Automated-Algorithm-Selection-for-Time-series-Forecasting/blob/main/data/datasets.md).
 
 ## Acknowledgements
 ### Papers
